@@ -7,7 +7,7 @@ Download the required JAR from (https://www.selenium.dev/downloads/)  and place 
 ---
 
 ## 🚀 Option A: Run in Standalone Mode (Single Machine)
-## open cmd drom jar file location
+## open cmd in jar file location
 ```bash
 java -jar selenium-server-4.15.0.jar standalone
 

@@ -1,4 +1,12 @@
+# 🚀 Selenium Grid Setup with Docker Compose
 
+This repository provides a simple way to run Selenium Grid using Docker Compose. It includes a Hub and browser nodes (Chrome and Firefox), allowing you to run automated browser tests remotely.
+
+---
+
+## 📄 docker-compose.yml
+
+```yaml
 version: '3'
 
 services:
@@ -32,6 +40,7 @@ services:
 networks:
   grid:
     driver: bridge
+
 
 
 

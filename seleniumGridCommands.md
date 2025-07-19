@@ -2,12 +2,12 @@
 
 ## 📥 Step 1: Download Selenium Server
 
-Download the required JAR from [SeleniumHQ GitHub Releases](https://github.com/SeleniumHQ/selenium/releases) and place `selenium-server-4.15.0.jar` on the relevant machines.
+Download the required JAR from [[SeleniumHQ GitHub Releases](https://github.com/SeleniumHQ/selenium/releases)](https://www.selenium.dev/downloads/)  and place `selenium-server-4.15.0.jar` on the relevant machines.
 
 ---
 
 ## 🚀 Option A: Run in Standalone Mode (Single Machine)
-
+## open cmd drom jar file location
 ```bash
 java -jar selenium-server-4.15.0.jar standalone
 

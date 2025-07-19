@@ -56,7 +56,7 @@ docker run -d --net grid \
 docker network rm grid
 This removes the grid network after all containers have been stopped.
 
-## here we go now we can run tests remotley in selenium grid just go in xml file and run 
+Here we go now we can run tests remotley in selenium grid just go in xml file and run 
 
 
 

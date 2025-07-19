@@ -2,7 +2,7 @@
 
 ## 📥 Step 1: Download Selenium Server
 
-Download the required JAR from [[SeleniumHQ GitHub Releases](https://github.com/SeleniumHQ/selenium/releases)](https://www.selenium.dev/downloads/)  and place `selenium-server-4.15.0.jar` on the relevant machines.
+Download the required JAR from (https://www.selenium.dev/downloads/)  and place `selenium-server-4.15.0.jar` on the relevant machines.
 
 ---
 

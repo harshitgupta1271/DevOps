@@ -30,3 +30,9 @@ docker system prune -f             # Remove:
                                    # - Dangling images
                                    # - Unused networks
                                    # ( Does NOT remove running containers)
+
+ 
+docker-compose up                  # Run docker-compose.yml
+docker-compose down                # To stop the grid and clean up containers
+
+

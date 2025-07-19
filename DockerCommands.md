@@ -8,7 +8,7 @@ docker -v                 # Show Docker client version only
 docker info               # Display system-wide Docker details
 docker --help             # List all available Docker commands
 docker login              # Authenticate with Docker Hub
-
+ 
 
 docker images                      # List locally stored Docker images
 docker pull <image-name>          # Download image (e.g., Ubuntu) from Docker Hub

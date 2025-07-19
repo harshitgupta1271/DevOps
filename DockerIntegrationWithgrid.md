@@ -13,7 +13,11 @@ Refer to some basic Docker commands for help:
 
 ---
 
-## 2. Pull Docker Images as you want i have pulled for linux  firefox and chrome but we can change based on os and browsers you want
+## 2. You can pull Docker images for the operating system and browser combinations you need. For example, I have already pulled images for:
+
+Linux + Firefox
+Linux + Chrome
+If you need a different OS (e.g., Windows, macOS) or a different browser (e.g., Edge, Safari), we can update the configuration and pull the appropriate Docker image accordingly.
 
 ```bash
 # Pull Selenium Hub image

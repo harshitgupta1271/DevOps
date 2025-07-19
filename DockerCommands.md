@@ -16,7 +16,7 @@ docker rmi <image-id or name>     # Remove a specific Docker image
 
 
 docker ps                          # Show running containers
-docker run <image-name>           # Run container (non-interactive)
+docker run <image-name/id>           # Run container (non-interactive)
 docker run -it <image-name>       # Run container in interactive terminal mode
 docker start <container-id or name>  # Start a stopped container
 docker stop <container-id or name>   # Stop a running container

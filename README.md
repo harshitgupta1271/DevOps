@@ -1,6 +1,6 @@
 # Selenium Hybrid Automation Framework 
 
-A comprehensive Selenium Hybrid Test Automation Framework using Java, TestNG, Maven, Log4j2, Apache POI, and ExtentReports, built following Pavan Sir's structure.
+A comprehensive Selenium Hybrid Test Automation Framework using Java,selenium, TestNG, Maven, Log4j2, Apache POI, and ExtentReports, git/github ,docker,jenkins.
 
 ---
 

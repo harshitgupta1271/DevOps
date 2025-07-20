@@ -1,10 +1,10 @@
-# Selenium Hybrid Automation Framework 🚀
+# Selenium Hybrid Automation Framework 
 
 A comprehensive Selenium Hybrid Test Automation Framework using Java, TestNG, Maven, Log4j2, Apache POI, and ExtentReports, built following Pavan Sir's structure.
 
 ---
 
-## 🔗 Repository Links
+## Repository Links
 
 - 📁 **Pavan Sir’s Repo:** [OpencartV121](https://github.com/pavanoltraining/OpencartV121)
 - 📁 **My Repo:** [Selenium-Hybrid-Framework](https://github.com/harshitgupta1271/Selenium-Hybrid-Framework)

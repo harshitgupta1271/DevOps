@@ -96,35 +96,3 @@ git pull https://github.com/harshitgupta1271/Selenium-Hybrid-Framework.git
           <repo url>
 git clone https://github.com/harshitgupta1271/Selenium-Hybrid-Framework.git
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

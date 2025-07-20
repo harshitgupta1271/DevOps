@@ -7,7 +7,7 @@ This guide explains how to install Git, set up a GitHub account, connect your lo
 ## ✅ Option 1: Install Git via Homebrew (Recommended for M2/M1 Macs)
 
 ### 1. Install Homebrew (if not already installed)
-
+ 
 Open Terminal and run:
 
 ```bash

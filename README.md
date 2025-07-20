@@ -6,7 +6,6 @@ A comprehensive Selenium Hybrid Test Automation Framework using Java, TestNG, Ma
 
 ## Repository Links
 
-- 📁 **Pavan Sir’s Repo:** [OpencartV121](https://github.com/pavanoltraining/OpencartV121)
 - 📁 **My Repo:** [Selenium-Hybrid-Framework](https://github.com/harshitgupta1271/Selenium-Hybrid-Framework)
 
 ---

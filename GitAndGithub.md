@@ -1,10 +1,10 @@
-# 🚀 Git & GitHub Setup Guide for Mac (M2/M1)
+# Git & GitHub Setup Guide for Mac (M2/M1)
 
 This guide explains how to install Git, set up a GitHub account, connect your local project with GitHub, and manage code changes over time.
 
 ---
 
-## ✅ Option 1: Install Git via Homebrew (Recommended for M2/M1 Macs)
+##  Option 1: Install Git via Homebrew (Recommended for M2/M1 Macs)
 
 ### 1. Install Homebrew (if not already installed)
  
